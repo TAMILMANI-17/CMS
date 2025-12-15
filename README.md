@@ -40,8 +40,8 @@ npm install
 
 3. Create `.env` file in `backend/` directory:
 ```env
-MONGODB_URI=mongodb+srv://techadmin:2oV4Gqj4egrbvdvevbevbevvo39ZtAtY@pepagora.xi1kwl.mongodb.net/?retryWrites=true&w=majority&appName=Pepagora
-DB_NAME=CMS
+MONGODB_URI=""
+DB_NAME=""
 
 JWT_SECRET=your-super-secret-jwt-key-change-in-production
 JWT_ACCESS_TOKEN_EXPIRATION=15m
